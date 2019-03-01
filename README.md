@@ -6,7 +6,7 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
 ## Development resources
 
 - Web: [lakrancoin.com](http://lakrancoin.com)
-- Bitcointalk: https://bitcointalk.org/index.php?topic=641696.0
+- Bitcointalk: https://bitcointalk.org/index.php?topic=832818.0
 - Reddit: https://www.reddit.com/r/lakrancoin
 - GitHub: [https://github.com/lakrancoin/lakran](https://github.com/lakrancoin/lakran)
 
