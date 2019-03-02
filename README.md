@@ -16,6 +16,12 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
 - Our [Vulnerability Response Process](https://github.com/monero-project/meta/blob/master/VULNERABILITY_RESPONSE_PROCESS.md) encourages responsible disclosure
 - We are also available via [HackerOne](https://hackerone.com/monero)
 
+## Social Media
+
+- Twitter: https://twitter.com/lakrancurrency
+- Facebook: https://www.facebook.com/Lakran-CryptoNote-Digial-Currency-325823484710990
+- Instagram: https://www.instagram.com/lakrancoin/
+- Vk: https://vk.com/lakran
 
 ## Coverage
 
